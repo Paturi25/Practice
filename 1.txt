@@ -2,5 +2,6 @@ Generate Code A1
 
 Generate Code A2
 Generate code A4
+Generate code A6
 
 Generate code A6
