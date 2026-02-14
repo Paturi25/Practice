@@ -5,3 +5,4 @@ Generate code A4
 Generate code A6
 
 Generate code A6
+Generate Code A7
